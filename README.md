@@ -1,3 +1,4 @@
+# Ado-baker
 # 📘 PDF Outline Extractor – Adobe Hackathon Round 1A
 
 This project is built for **Adobe India's "Connecting the Dots" Hackathon – Round 1A**. It extracts a clean, hierarchical **outline** from a PDF file, identifying the **title** and structural headings (**H1, H2, H3**) based on visual layout.
